@@ -1,4 +1,4 @@
-# Password Generator 🦀
+# 🔒 Password Generator 🦀
 
 Welcome to my Rust project! Follow the instructions below to get started.
 
